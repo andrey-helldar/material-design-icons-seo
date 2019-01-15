@@ -1,0 +1,42 @@
+{
+    "name": "material-design-icons-seo",
+    "version": "0.1.0",
+    "description": "SEO Plugin for Material Design icons by Google",
+    "author": "Andrey Helldar",
+    "license": "MIT",
+    "main": "index.js",
+    "engine": "node >= 8",
+    "homepage": "https://github.com/andrey-helldar/material-design-icons-seo#readme",
+    "bugs": {
+        "url": "https://github.com/andrey-helldar/material-design-icons-seo/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:andrey-helldar/material-design-icons-seo.git"
+    },
+    "scripts": {
+        "dev": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "watch": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --watch --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "prod": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
+    },
+    "keywords": [
+        "icons",
+        "material",
+        "material-design",
+        "seo"
+    ],
+    "devDependencies": {
+        "cross-env": "^5.2",
+        "laravel-mix": "^4.0",
+        "material-design-icons": "^3.0",
+        "resolve-url-loader": "^2.3",
+        "sass": "^1.16",
+        "sass-loader": "^7.1"
+    },
+    "files": [
+        "build",
+        "src",
+        "LICENSE",
+        "README.md"
+    ]
+}

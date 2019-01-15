@@ -1,0 +1,1869 @@
+@charset "UTF-8";
+
+.material-icons {
+    &.mi-3d_rotation:before { content: '3d_rotation'; }
+
+    &.mi-ac_unit:before { content: 'ac_unit'; }
+
+    &.mi-access_alarm:before { content: 'access_alarm'; }
+
+    &.mi-access_alarms:before { content: 'access_alarms'; }
+
+    &.mi-access_time:before { content: 'access_time'; }
+
+    &.mi-accessibility:before { content: 'accessibility'; }
+
+    &.mi-accessible:before { content: 'accessible'; }
+
+    &.mi-account_balance:before { content: 'account_balance'; }
+
+    &.mi-account_balance_wallet:before { content: 'account_balance_wallet'; }
+
+    &.mi-account_box:before { content: 'account_box'; }
+
+    &.mi-account_circle:before { content: 'account_circle'; }
+
+    &.mi-adb:before { content: 'adb'; }
+
+    &.mi-add:before { content: 'add'; }
+
+    &.mi-add_a_photo:before { content: 'add_a_photo'; }
+
+    &.mi-add_alarm:before { content: 'add_alarm'; }
+
+    &.mi-add_alert:before { content: 'add_alert'; }
+
+    &.mi-add_box:before { content: 'add_box'; }
+
+    &.mi-add_circle:before { content: 'add_circle'; }
+
+    &.mi-add_circle_outline:before { content: 'add_circle_outline'; }
+
+    &.mi-add_location:before { content: 'add_location'; }
+
+    &.mi-add_shopping_cart:before { content: 'add_shopping_cart'; }
+
+    &.mi-add_to_photos:before { content: 'add_to_photos'; }
+
+    &.mi-add_to_queue:before { content: 'add_to_queue'; }
+
+    &.mi-adjust:before { content: 'adjust'; }
+
+    &.mi-airline_seat_flat:before { content: 'airline_seat_flat'; }
+
+    &.mi-airline_seat_flat_angled:before { content: 'airline_seat_flat_angled'; }
+
+    &.mi-airline_seat_individual_suite:before { content: 'airline_seat_individual_suite'; }
+
+    &.mi-airline_seat_legroom_extra:before { content: 'airline_seat_legroom_extra'; }
+
+    &.mi-airline_seat_legroom_normal:before { content: 'airline_seat_legroom_normal'; }
+
+    &.mi-airline_seat_legroom_reduced:before { content: 'airline_seat_legroom_reduced'; }
+
+    &.mi-airline_seat_recline_extra:before { content: 'airline_seat_recline_extra'; }
+
+    &.mi-airline_seat_recline_normal:before { content: 'airline_seat_recline_normal'; }
+
+    &.mi-airplanemode_active:before { content: 'airplanemode_active'; }
+
+    &.mi-airplanemode_inactive:before { content: 'airplanemode_inactive'; }
+
+    &.mi-airplay:before { content: 'airplay'; }
+
+    &.mi-airport_shuttle:before { content: 'airport_shuttle'; }
+
+    &.mi-alarm:before { content: 'alarm'; }
+
+    &.mi-alarm_add:before { content: 'alarm_add'; }
+
+    &.mi-alarm_off:before { content: 'alarm_off'; }
+
+    &.mi-alarm_on:before { content: 'alarm_on'; }
+
+    &.mi-album:before { content: 'album'; }
+
+    &.mi-all_inclusive:before { content: 'all_inclusive'; }
+
+    &.mi-all_out:before { content: 'all_out'; }
+
+    &.mi-android:before { content: 'android'; }
+
+    &.mi-announcement:before { content: 'announcement'; }
+
+    &.mi-apps:before { content: 'apps'; }
+
+    &.mi-archive:before { content: 'archive'; }
+
+    &.mi-arrow_back:before { content: 'arrow_back'; }
+
+    &.mi-arrow_downward:before { content: 'arrow_downward'; }
+
+    &.mi-arrow_drop_down:before { content: 'arrow_drop_down'; }
+
+    &.mi-arrow_drop_down_circle:before { content: 'arrow_drop_down_circle'; }
+
+    &.mi-arrow_drop_up:before { content: 'arrow_drop_up'; }
+
+    &.mi-arrow_forward:before { content: 'arrow_forward'; }
+
+    &.mi-arrow_upward:before { content: 'arrow_upward'; }
+
+    &.mi-art_track:before { content: 'art_track'; }
+
+    &.mi-aspect_ratio:before { content: 'aspect_ratio'; }
+
+    &.mi-assessment:before { content: 'assessment'; }
+
+    &.mi-assignment:before { content: 'assignment'; }
+
+    &.mi-assignment_ind:before { content: 'assignment_ind'; }
+
+    &.mi-assignment_late:before { content: 'assignment_late'; }
+
+    &.mi-assignment_return:before { content: 'assignment_return'; }
+
+    &.mi-assignment_returned:before { content: 'assignment_returned'; }
+
+    &.mi-assignment_turned_in:before { content: 'assignment_turned_in'; }
+
+    &.mi-assistant:before { content: 'assistant'; }
+
+    &.mi-assistant_photo:before { content: 'assistant_photo'; }
+
+    &.mi-attach_file:before { content: 'attach_file'; }
+
+    &.mi-attach_money:before { content: 'attach_money'; }
+
+    &.mi-attachment:before { content: 'attachment'; }
+
+    &.mi-audiotrack:before { content: 'audiotrack'; }
+
+    &.mi-autorenew:before { content: 'autorenew'; }
+
+    &.mi-av_timer:before { content: 'av_timer'; }
+
+    &.mi-backspace:before { content: 'backspace'; }
+
+    &.mi-backup:before { content: 'backup'; }
+
+    &.mi-battery_alert:before { content: 'battery_alert'; }
+
+    &.mi-battery_charging_full:before { content: 'battery_charging_full'; }
+
+    &.mi-battery_full:before { content: 'battery_full'; }
+
+    &.mi-battery_std:before { content: 'battery_std'; }
+
+    &.mi-battery_unknown:before { content: 'battery_unknown'; }
+
+    &.mi-beach_access:before { content: 'beach_access'; }
+
+    &.mi-beenhere:before { content: 'beenhere'; }
+
+    &.mi-block:before { content: 'block'; }
+
+    &.mi-bluetooth:before { content: 'bluetooth'; }
+
+    &.mi-bluetooth_audio:before { content: 'bluetooth_audio'; }
+
+    &.mi-bluetooth_connected:before { content: 'bluetooth_connected'; }
+
+    &.mi-bluetooth_disabled:before { content: 'bluetooth_disabled'; }
+
+    &.mi-bluetooth_searching:before { content: 'bluetooth_searching'; }
+
+    &.mi-blur_circular:before { content: 'blur_circular'; }
+
+    &.mi-blur_linear:before { content: 'blur_linear'; }
+
+    &.mi-blur_off:before { content: 'blur_off'; }
+
+    &.mi-blur_on:before { content: 'blur_on'; }
+
+    &.mi-book:before { content: 'book'; }
+
+    &.mi-bookmark:before { content: 'bookmark'; }
+
+    &.mi-bookmark_border:before { content: 'bookmark_border'; }
+
+    &.mi-border_all:before { content: 'border_all'; }
+
+    &.mi-border_bottom:before { content: 'border_bottom'; }
+
+    &.mi-border_clear:before { content: 'border_clear'; }
+
+    &.mi-border_color:before { content: 'border_color'; }
+
+    &.mi-border_horizontal:before { content: 'border_horizontal'; }
+
+    &.mi-border_inner:before { content: 'border_inner'; }
+
+    &.mi-border_left:before { content: 'border_left'; }
+
+    &.mi-border_outer:before { content: 'border_outer'; }
+
+    &.mi-border_right:before { content: 'border_right'; }
+
+    &.mi-border_style:before { content: 'border_style'; }
+
+    &.mi-border_top:before { content: 'border_top'; }
+
+    &.mi-border_vertical:before { content: 'border_vertical'; }
+
+    &.mi-branding_watermark:before { content: 'branding_watermark'; }
+
+    &.mi-brightness_1:before { content: 'brightness_1'; }
+
+    &.mi-brightness_2:before { content: 'brightness_2'; }
+
+    &.mi-brightness_3:before { content: 'brightness_3'; }
+
+    &.mi-brightness_4:before { content: 'brightness_4'; }
+
+    &.mi-brightness_5:before { content: 'brightness_5'; }
+
+    &.mi-brightness_6:before { content: 'brightness_6'; }
+
+    &.mi-brightness_7:before { content: 'brightness_7'; }
+
+    &.mi-brightness_auto:before { content: 'brightness_auto'; }
+
+    &.mi-brightness_high:before { content: 'brightness_high'; }
+
+    &.mi-brightness_low:before { content: 'brightness_low'; }
+
+    &.mi-brightness_medium:before { content: 'brightness_medium'; }
+
+    &.mi-broken_image:before { content: 'broken_image'; }
+
+    &.mi-brush:before { content: 'brush'; }
+
+    &.mi-bubble_chart:before { content: 'bubble_chart'; }
+
+    &.mi-bug_report:before { content: 'bug_report'; }
+
+    &.mi-build:before { content: 'build'; }
+
+    &.mi-burst_mode:before { content: 'burst_mode'; }
+
+    &.mi-business:before { content: 'business'; }
+
+    &.mi-business_center:before { content: 'business_center'; }
+
+    &.mi-cached:before { content: 'cached'; }
+
+    &.mi-cake:before { content: 'cake'; }
+
+    &.mi-call:before { content: 'call'; }
+
+    &.mi-call_end:before { content: 'call_end'; }
+
+    &.mi-call_made:before { content: 'call_made'; }
+
+    &.mi-call_merge:before { content: 'call_merge'; }
+
+    &.mi-call_missed:before { content: 'call_missed'; }
+
+    &.mi-call_missed_outgoing:before { content: 'call_missed_outgoing'; }
+
+    &.mi-call_received:before { content: 'call_received'; }
+
+    &.mi-call_split:before { content: 'call_split'; }
+
+    &.mi-call_to_action:before { content: 'call_to_action'; }
+
+    &.mi-camera:before { content: 'camera'; }
+
+    &.mi-camera_alt:before { content: 'camera_alt'; }
+
+    &.mi-camera_enhance:before { content: 'camera_enhance'; }
+
+    &.mi-camera_front:before { content: 'camera_front'; }
+
+    &.mi-camera_rear:before { content: 'camera_rear'; }
+
+    &.mi-camera_roll:before { content: 'camera_roll'; }
+
+    &.mi-cancel:before { content: 'cancel'; }
+
+    &.mi-card_giftcard:before { content: 'card_giftcard'; }
+
+    &.mi-card_membership:before { content: 'card_membership'; }
+
+    &.mi-card_travel:before { content: 'card_travel'; }
+
+    &.mi-casino:before { content: 'casino'; }
+
+    &.mi-cast:before { content: 'cast'; }
+
+    &.mi-cast_connected:before { content: 'cast_connected'; }
+
+    &.mi-center_focus_strong:before { content: 'center_focus_strong'; }
+
+    &.mi-center_focus_weak:before { content: 'center_focus_weak'; }
+
+    &.mi-change_history:before { content: 'change_history'; }
+
+    &.mi-chat:before { content: 'chat'; }
+
+    &.mi-chat_bubble:before { content: 'chat_bubble'; }
+
+    &.mi-chat_bubble_outline:before { content: 'chat_bubble_outline'; }
+
+    &.mi-check:before { content: 'check'; }
+
+    &.mi-check_box:before { content: 'check_box'; }
+
+    &.mi-check_box_outline_blank:before { content: 'check_box_outline_blank'; }
+
+    &.mi-check_circle:before { content: 'check_circle'; }
+
+    &.mi-chevron_left:before { content: 'chevron_left'; }
+
+    &.mi-chevron_right:before { content: 'chevron_right'; }
+
+    &.mi-child_care:before { content: 'child_care'; }
+
+    &.mi-child_friendly:before { content: 'child_friendly'; }
+
+    &.mi-chrome_reader_mode:before { content: 'chrome_reader_mode'; }
+
+    &.mi-class:before { content: 'class'; }
+
+    &.mi-clear:before { content: 'clear'; }
+
+    &.mi-clear_all:before { content: 'clear_all'; }
+
+    &.mi-close:before { content: 'close'; }
+
+    &.mi-closed_caption:before { content: 'closed_caption'; }
+
+    &.mi-cloud:before { content: 'cloud'; }
+
+    &.mi-cloud_circle:before { content: 'cloud_circle'; }
+
+    &.mi-cloud_done:before { content: 'cloud_done'; }
+
+    &.mi-cloud_download:before { content: 'cloud_download'; }
+
+    &.mi-cloud_off:before { content: 'cloud_off'; }
+
+    &.mi-cloud_queue:before { content: 'cloud_queue'; }
+
+    &.mi-cloud_upload:before { content: 'cloud_upload'; }
+
+    &.mi-code:before { content: 'code'; }
+
+    &.mi-collections:before { content: 'collections'; }
+
+    &.mi-collections_bookmark:before { content: 'collections_bookmark'; }
+
+    &.mi-color_lens:before { content: 'color_lens'; }
+
+    &.mi-colorize:before { content: 'colorize'; }
+
+    &.mi-comment:before { content: 'comment'; }
+
+    &.mi-compare:before { content: 'compare'; }
+
+    &.mi-compare_arrows:before { content: 'compare_arrows'; }
+
+    &.mi-computer:before { content: 'computer'; }
+
+    &.mi-confirmation_number:before { content: 'confirmation_number'; }
+
+    &.mi-contact_mail:before { content: 'contact_mail'; }
+
+    &.mi-contact_phone:before { content: 'contact_phone'; }
+
+    &.mi-contacts:before { content: 'contacts'; }
+
+    &.mi-content_copy:before { content: 'content_copy'; }
+
+    &.mi-content_cut:before { content: 'content_cut'; }
+
+    &.mi-content_paste:before { content: 'content_paste'; }
+
+    &.mi-control_point:before { content: 'control_point'; }
+
+    &.mi-control_point_duplicate:before { content: 'control_point_duplicate'; }
+
+    &.mi-copyright:before { content: 'copyright'; }
+
+    &.mi-create:before { content: 'create'; }
+
+    &.mi-create_new_folder:before { content: 'create_new_folder'; }
+
+    &.mi-credit_card:before { content: 'credit_card'; }
+
+    &.mi-crop:before { content: 'crop'; }
+
+    &.mi-crop_3_2:before { content: 'crop_3_2'; }
+
+    &.mi-crop_5_4:before { content: 'crop_5_4'; }
+
+    &.mi-crop_7_5:before { content: 'crop_7_5'; }
+
+    &.mi-crop_16_9:before { content: 'crop_16_9'; }
+
+    &.mi-crop_din:before { content: 'crop_din'; }
+
+    &.mi-crop_free:before { content: 'crop_free'; }
+
+    &.mi-crop_landscape:before { content: 'crop_landscape'; }
+
+    &.mi-crop_original:before { content: 'crop_original'; }
+
+    &.mi-crop_portrait:before { content: 'crop_portrait'; }
+
+    &.mi-crop_rotate:before { content: 'crop_rotate'; }
+
+    &.mi-crop_square:before { content: 'crop_square'; }
+
+    &.mi-dashboard:before { content: 'dashboard'; }
+
+    &.mi-data_usage:before { content: 'data_usage'; }
+
+    &.mi-date_range:before { content: 'date_range'; }
+
+    &.mi-dehaze:before { content: 'dehaze'; }
+
+    &.mi-delete:before { content: 'delete'; }
+
+    &.mi-delete_forever:before { content: 'delete_forever'; }
+
+    &.mi-delete_sweep:before { content: 'delete_sweep'; }
+
+    &.mi-description:before { content: 'description'; }
+
+    &.mi-desktop_mac:before { content: 'desktop_mac'; }
+
+    &.mi-desktop_windows:before { content: 'desktop_windows'; }
+
+    &.mi-details:before { content: 'details'; }
+
+    &.mi-developer_board:before { content: 'developer_board'; }
+
+    &.mi-developer_mode:before { content: 'developer_mode'; }
+
+    &.mi-device_hub:before { content: 'device_hub'; }
+
+    &.mi-devices:before { content: 'devices'; }
+
+    &.mi-devices_other:before { content: 'devices_other'; }
+
+    &.mi-dialer_sip:before { content: 'dialer_sip'; }
+
+    &.mi-dialpad:before { content: 'dialpad'; }
+
+    &.mi-directions:before { content: 'directions'; }
+
+    &.mi-directions_bike:before { content: 'directions_bike'; }
+
+    &.mi-directions_boat:before { content: 'directions_boat'; }
+
+    &.mi-directions_bus:before { content: 'directions_bus'; }
+
+    &.mi-directions_car:before { content: 'directions_car'; }
+
+    &.mi-directions_railway:before { content: 'directions_railway'; }
+
+    &.mi-directions_run:before { content: 'directions_run'; }
+
+    &.mi-directions_subway:before { content: 'directions_subway'; }
+
+    &.mi-directions_transit:before { content: 'directions_transit'; }
+
+    &.mi-directions_walk:before { content: 'directions_walk'; }
+
+    &.mi-disc_full:before { content: 'disc_full'; }
+
+    &.mi-dns:before { content: 'dns'; }
+
+    &.mi-do_not_disturb:before { content: 'do_not_disturb'; }
+
+    &.mi-do_not_disturb_alt:before { content: 'do_not_disturb_alt'; }
+
+    &.mi-do_not_disturb_off:before { content: 'do_not_disturb_off'; }
+
+    &.mi-do_not_disturb_on:before { content: 'do_not_disturb_on'; }
+
+    &.mi-dock:before { content: 'dock'; }
+
+    &.mi-domain:before { content: 'domain'; }
+
+    &.mi-done:before { content: 'done'; }
+
+    &.mi-done_all:before { content: 'done_all'; }
+
+    &.mi-donut_large:before { content: 'donut_large'; }
+
+    &.mi-donut_small:before { content: 'donut_small'; }
+
+    &.mi-drafts:before { content: 'drafts'; }
+
+    &.mi-drag_handle:before { content: 'drag_handle'; }
+
+    &.mi-drive_eta:before { content: 'drive_eta'; }
+
+    &.mi-dvr:before { content: 'dvr'; }
+
+    &.mi-edit:before { content: 'edit'; }
+
+    &.mi-edit_location:before { content: 'edit_location'; }
+
+    &.mi-eject:before { content: 'eject'; }
+
+    &.mi-email:before { content: 'email'; }
+
+    &.mi-enhanced_encryption:before { content: 'enhanced_encryption'; }
+
+    &.mi-equalizer:before { content: 'equalizer'; }
+
+    &.mi-error:before { content: 'error'; }
+
+    &.mi-error_outline:before { content: 'error_outline'; }
+
+    &.mi-euro_symbol:before { content: 'euro_symbol'; }
+
+    &.mi-ev_station:before { content: 'ev_station'; }
+
+    &.mi-event:before { content: 'event'; }
+
+    &.mi-event_available:before { content: 'event_available'; }
+
+    &.mi-event_busy:before { content: 'event_busy'; }
+
+    &.mi-event_note:before { content: 'event_note'; }
+
+    &.mi-event_seat:before { content: 'event_seat'; }
+
+    &.mi-exit_to_app:before { content: 'exit_to_app'; }
+
+    &.mi-expand_less:before { content: 'expand_less'; }
+
+    &.mi-expand_more:before { content: 'expand_more'; }
+
+    &.mi-explicit:before { content: 'explicit'; }
+
+    &.mi-explore:before { content: 'explore'; }
+
+    &.mi-exposure:before { content: 'exposure'; }
+
+    &.mi-exposure_neg_1:before { content: 'exposure_neg_1'; }
+
+    &.mi-exposure_neg_2:before { content: 'exposure_neg_2'; }
+
+    &.mi-exposure_plus_1:before { content: 'exposure_plus_1'; }
+
+    &.mi-exposure_plus_2:before { content: 'exposure_plus_2'; }
+
+    &.mi-exposure_zero:before { content: 'exposure_zero'; }
+
+    &.mi-extension:before { content: 'extension'; }
+
+    &.mi-face:before { content: 'face'; }
+
+    &.mi-fast_forward:before { content: 'fast_forward'; }
+
+    &.mi-fast_rewind:before { content: 'fast_rewind'; }
+
+    &.mi-favorite:before { content: 'favorite'; }
+
+    &.mi-favorite_border:before { content: 'favorite_border'; }
+
+    &.mi-featured_play_list:before { content: 'featured_play_list'; }
+
+    &.mi-featured_video:before { content: 'featured_video'; }
+
+    &.mi-feedback:before { content: 'feedback'; }
+
+    &.mi-fiber_dvr:before { content: 'fiber_dvr'; }
+
+    &.mi-fiber_manual_record:before { content: 'fiber_manual_record'; }
+
+    &.mi-fiber_new:before { content: 'fiber_new'; }
+
+    &.mi-fiber_pin:before { content: 'fiber_pin'; }
+
+    &.mi-fiber_smart_record:before { content: 'fiber_smart_record'; }
+
+    &.mi-file_download:before { content: 'file_download'; }
+
+    &.mi-file_upload:before { content: 'file_upload'; }
+
+    &.mi-filter:before { content: 'filter'; }
+
+    &.mi-filter_1:before { content: 'filter_1'; }
+
+    &.mi-filter_2:before { content: 'filter_2'; }
+
+    &.mi-filter_3:before { content: 'filter_3'; }
+
+    &.mi-filter_4:before { content: 'filter_4'; }
+
+    &.mi-filter_5:before { content: 'filter_5'; }
+
+    &.mi-filter_6:before { content: 'filter_6'; }
+
+    &.mi-filter_7:before { content: 'filter_7'; }
+
+    &.mi-filter_8:before { content: 'filter_8'; }
+
+    &.mi-filter_9:before { content: 'filter_9'; }
+
+    &.mi-filter_9_plus:before { content: 'filter_9_plus'; }
+
+    &.mi-filter_b_and_w:before { content: 'filter_b_and_w'; }
+
+    &.mi-filter_center_focus:before { content: 'filter_center_focus'; }
+
+    &.mi-filter_drama:before { content: 'filter_drama'; }
+
+    &.mi-filter_frames:before { content: 'filter_frames'; }
+
+    &.mi-filter_hdr:before { content: 'filter_hdr'; }
+
+    &.mi-filter_list:before { content: 'filter_list'; }
+
+    &.mi-filter_none:before { content: 'filter_none'; }
+
+    &.mi-filter_tilt_shift:before { content: 'filter_tilt_shift'; }
+
+    &.mi-filter_vintage:before { content: 'filter_vintage'; }
+
+    &.mi-find_in_page:before { content: 'find_in_page'; }
+
+    &.mi-find_replace:before { content: 'find_replace'; }
+
+    &.mi-fingerprint:before { content: 'fingerprint'; }
+
+    &.mi-first_page:before { content: 'first_page'; }
+
+    &.mi-fitness_center:before { content: 'fitness_center'; }
+
+    &.mi-flag:before { content: 'flag'; }
+
+    &.mi-flare:before { content: 'flare'; }
+
+    &.mi-flash_auto:before { content: 'flash_auto'; }
+
+    &.mi-flash_off:before { content: 'flash_off'; }
+
+    &.mi-flash_on:before { content: 'flash_on'; }
+
+    &.mi-flight:before { content: 'flight'; }
+
+    &.mi-flight_land:before { content: 'flight_land'; }
+
+    &.mi-flight_takeoff:before { content: 'flight_takeoff'; }
+
+    &.mi-flip:before { content: 'flip'; }
+
+    &.mi-flip_to_back:before { content: 'flip_to_back'; }
+
+    &.mi-flip_to_front:before { content: 'flip_to_front'; }
+
+    &.mi-folder:before { content: 'folder'; }
+
+    &.mi-folder_open:before { content: 'folder_open'; }
+
+    &.mi-folder_shared:before { content: 'folder_shared'; }
+
+    &.mi-folder_special:before { content: 'folder_special'; }
+
+    &.mi-font_download:before { content: 'font_download'; }
+
+    &.mi-format_align_center:before { content: 'format_align_center'; }
+
+    &.mi-format_align_justify:before { content: 'format_align_justify'; }
+
+    &.mi-format_align_left:before { content: 'format_align_left'; }
+
+    &.mi-format_align_right:before { content: 'format_align_right'; }
+
+    &.mi-format_bold:before { content: 'format_bold'; }
+
+    &.mi-format_clear:before { content: 'format_clear'; }
+
+    &.mi-format_color_fill:before { content: 'format_color_fill'; }
+
+    &.mi-format_color_reset:before { content: 'format_color_reset'; }
+
+    &.mi-format_color_text:before { content: 'format_color_text'; }
+
+    &.mi-format_indent_decrease:before { content: 'format_indent_decrease'; }
+
+    &.mi-format_indent_increase:before { content: 'format_indent_increase'; }
+
+    &.mi-format_italic:before { content: 'format_italic'; }
+
+    &.mi-format_line_spacing:before { content: 'format_line_spacing'; }
+
+    &.mi-format_list_bulleted:before { content: 'format_list_bulleted'; }
+
+    &.mi-format_list_numbered:before { content: 'format_list_numbered'; }
+
+    &.mi-format_paint:before { content: 'format_paint'; }
+
+    &.mi-format_quote:before { content: 'format_quote'; }
+
+    &.mi-format_shapes:before { content: 'format_shapes'; }
+
+    &.mi-format_size:before { content: 'format_size'; }
+
+    &.mi-format_strikethrough:before { content: 'format_strikethrough'; }
+
+    &.mi-format_textdirection_l_to_r:before { content: 'format_textdirection_l_to_r'; }
+
+    &.mi-format_textdirection_r_to_l:before { content: 'format_textdirection_r_to_l'; }
+
+    &.mi-format_underlined:before { content: 'format_underlined'; }
+
+    &.mi-forum:before { content: 'forum'; }
+
+    &.mi-forward:before { content: 'forward'; }
+
+    &.mi-forward_5:before { content: 'forward_5'; }
+
+    &.mi-forward_10:before { content: 'forward_10'; }
+
+    &.mi-forward_30:before { content: 'forward_30'; }
+
+    &.mi-free_breakfast:before { content: 'free_breakfast'; }
+
+    &.mi-fullscreen:before { content: 'fullscreen'; }
+
+    &.mi-fullscreen_exit:before { content: 'fullscreen_exit'; }
+
+    &.mi-functions:before { content: 'functions'; }
+
+    &.mi-g_translate:before { content: 'g_translate'; }
+
+    &.mi-gamepad:before { content: 'gamepad'; }
+
+    &.mi-games:before { content: 'games'; }
+
+    &.mi-gavel:before { content: 'gavel'; }
+
+    &.mi-gesture:before { content: 'gesture'; }
+
+    &.mi-get_app:before { content: 'get_app'; }
+
+    &.mi-gif:before { content: 'gif'; }
+
+    &.mi-goat:before { content: 'goat'; }
+
+    &.mi-golf_course:before { content: 'golf_course'; }
+
+    &.mi-gps_fixed:before { content: 'gps_fixed'; }
+
+    &.mi-gps_not_fixed:before { content: 'gps_not_fixed'; }
+
+    &.mi-gps_off:before { content: 'gps_off'; }
+
+    &.mi-grade:before { content: 'grade'; }
+
+    &.mi-gradient:before { content: 'gradient'; }
+
+    &.mi-grain:before { content: 'grain'; }
+
+    &.mi-graphic_eq:before { content: 'graphic_eq'; }
+
+    &.mi-grid_off:before { content: 'grid_off'; }
+
+    &.mi-grid_on:before { content: 'grid_on'; }
+
+    &.mi-group:before { content: 'group'; }
+
+    &.mi-group_add:before { content: 'group_add'; }
+
+    &.mi-group_work:before { content: 'group_work'; }
+
+    &.mi-hd:before { content: 'hd'; }
+
+    &.mi-hdr_off:before { content: 'hdr_off'; }
+
+    &.mi-hdr_on:before { content: 'hdr_on'; }
+
+    &.mi-hdr_strong:before { content: 'hdr_strong'; }
+
+    &.mi-hdr_weak:before { content: 'hdr_weak'; }
+
+    &.mi-headset:before { content: 'headset'; }
+
+    &.mi-headset_mic:before { content: 'headset_mic'; }
+
+    &.mi-healing:before { content: 'healing'; }
+
+    &.mi-hearing:before { content: 'hearing'; }
+
+    &.mi-help:before { content: 'help'; }
+
+    &.mi-help_outline:before { content: 'help_outline'; }
+
+    &.mi-high_quality:before { content: 'high_quality'; }
+
+    &.mi-highlight:before { content: 'highlight'; }
+
+    &.mi-highlight_off:before { content: 'highlight_off'; }
+
+    &.mi-history:before { content: 'history'; }
+
+    &.mi-home:before { content: 'home'; }
+
+    &.mi-hot_tub:before { content: 'hot_tub'; }
+
+    &.mi-hotel:before { content: 'hotel'; }
+
+    &.mi-hourglass_empty:before { content: 'hourglass_empty'; }
+
+    &.mi-hourglass_full:before { content: 'hourglass_full'; }
+
+    &.mi-http:before { content: 'http'; }
+
+    &.mi-https:before { content: 'https'; }
+
+    &.mi-image:before { content: 'image'; }
+
+    &.mi-image_aspect_ratio:before { content: 'image_aspect_ratio'; }
+
+    &.mi-import_contacts:before { content: 'import_contacts'; }
+
+    &.mi-import_export:before { content: 'import_export'; }
+
+    &.mi-important_devices:before { content: 'important_devices'; }
+
+    &.mi-inbox:before { content: 'inbox'; }
+
+    &.mi-indeterminate_check_box:before { content: 'indeterminate_check_box'; }
+
+    &.mi-info:before { content: 'info'; }
+
+    &.mi-info_outline:before { content: 'info_outline'; }
+
+    &.mi-input:before { content: 'input'; }
+
+    &.mi-insert_chart:before { content: 'insert_chart'; }
+
+    &.mi-insert_comment:before { content: 'insert_comment'; }
+
+    &.mi-insert_drive_file:before { content: 'insert_drive_file'; }
+
+    &.mi-insert_emoticon:before { content: 'insert_emoticon'; }
+
+    &.mi-insert_invitation:before { content: 'insert_invitation'; }
+
+    &.mi-insert_link:before { content: 'insert_link'; }
+
+    &.mi-insert_photo:before { content: 'insert_photo'; }
+
+    &.mi-invert_colors:before { content: 'invert_colors'; }
+
+    &.mi-invert_colors_off:before { content: 'invert_colors_off'; }
+
+    &.mi-iso:before { content: 'iso'; }
+
+    &.mi-keyboard:before { content: 'keyboard'; }
+
+    &.mi-keyboard_arrow_down:before { content: 'keyboard_arrow_down'; }
+
+    &.mi-keyboard_arrow_left:before { content: 'keyboard_arrow_left'; }
+
+    &.mi-keyboard_arrow_right:before { content: 'keyboard_arrow_right'; }
+
+    &.mi-keyboard_arrow_up:before { content: 'keyboard_arrow_up'; }
+
+    &.mi-keyboard_backspace:before { content: 'keyboard_backspace'; }
+
+    &.mi-keyboard_capslock:before { content: 'keyboard_capslock'; }
+
+    &.mi-keyboard_hide:before { content: 'keyboard_hide'; }
+
+    &.mi-keyboard_return:before { content: 'keyboard_return'; }
+
+    &.mi-keyboard_tab:before { content: 'keyboard_tab'; }
+
+    &.mi-keyboard_voice:before { content: 'keyboard_voice'; }
+
+    &.mi-kitchen:before { content: 'kitchen'; }
+
+    &.mi-label:before { content: 'label'; }
+
+    &.mi-label_outline:before { content: 'label_outline'; }
+
+    &.mi-landscape:before { content: 'landscape'; }
+
+    &.mi-language:before { content: 'language'; }
+
+    &.mi-laptop:before { content: 'laptop'; }
+
+    &.mi-laptop_chromebook:before { content: 'laptop_chromebook'; }
+
+    &.mi-laptop_mac:before { content: 'laptop_mac'; }
+
+    &.mi-laptop_windows:before { content: 'laptop_windows'; }
+
+    &.mi-last_page:before { content: 'last_page'; }
+
+    &.mi-launch:before { content: 'launch'; }
+
+    &.mi-layers:before { content: 'layers'; }
+
+    &.mi-layers_clear:before { content: 'layers_clear'; }
+
+    &.mi-leak_add:before { content: 'leak_add'; }
+
+    &.mi-leak_remove:before { content: 'leak_remove'; }
+
+    &.mi-lens:before { content: 'lens'; }
+
+    &.mi-library_add:before { content: 'library_add'; }
+
+    &.mi-library_books:before { content: 'library_books'; }
+
+    &.mi-library_music:before { content: 'library_music'; }
+
+    &.mi-lightbulb_outline:before { content: 'lightbulb_outline'; }
+
+    &.mi-line_style:before { content: 'line_style'; }
+
+    &.mi-line_weight:before { content: 'line_weight'; }
+
+    &.mi-linear_scale:before { content: 'linear_scale'; }
+
+    &.mi-link:before { content: 'link'; }
+
+    &.mi-linked_camera:before { content: 'linked_camera'; }
+
+    &.mi-list:before { content: 'list'; }
+
+    &.mi-live_help:before { content: 'live_help'; }
+
+    &.mi-live_tv:before { content: 'live_tv'; }
+
+    &.mi-local_activity:before { content: 'local_activity'; }
+
+    &.mi-local_airport:before { content: 'local_airport'; }
+
+    &.mi-local_atm:before { content: 'local_atm'; }
+
+    &.mi-local_bar:before { content: 'local_bar'; }
+
+    &.mi-local_cafe:before { content: 'local_cafe'; }
+
+    &.mi-local_car_wash:before { content: 'local_car_wash'; }
+
+    &.mi-local_convenience_store:before { content: 'local_convenience_store'; }
+
+    &.mi-local_dining:before { content: 'local_dining'; }
+
+    &.mi-local_drink:before { content: 'local_drink'; }
+
+    &.mi-local_florist:before { content: 'local_florist'; }
+
+    &.mi-local_gas_station:before { content: 'local_gas_station'; }
+
+    &.mi-local_grocery_store:before { content: 'local_grocery_store'; }
+
+    &.mi-local_hospital:before { content: 'local_hospital'; }
+
+    &.mi-local_hotel:before { content: 'local_hotel'; }
+
+    &.mi-local_laundry_service:before { content: 'local_laundry_service'; }
+
+    &.mi-local_library:before { content: 'local_library'; }
+
+    &.mi-local_mall:before { content: 'local_mall'; }
+
+    &.mi-local_movies:before { content: 'local_movies'; }
+
+    &.mi-local_offer:before { content: 'local_offer'; }
+
+    &.mi-local_parking:before { content: 'local_parking'; }
+
+    &.mi-local_pharmacy:before { content: 'local_pharmacy'; }
+
+    &.mi-local_phone:before { content: 'local_phone'; }
+
+    &.mi-local_pizza:before { content: 'local_pizza'; }
+
+    &.mi-local_play:before { content: 'local_play'; }
+
+    &.mi-local_post_office:before { content: 'local_post_office'; }
+
+    &.mi-local_printshop:before { content: 'local_printshop'; }
+
+    &.mi-local_see:before { content: 'local_see'; }
+
+    &.mi-local_shipping:before { content: 'local_shipping'; }
+
+    &.mi-local_taxi:before { content: 'local_taxi'; }
+
+    &.mi-location_city:before { content: 'location_city'; }
+
+    &.mi-location_disabled:before { content: 'location_disabled'; }
+
+    &.mi-location_off:before { content: 'location_off'; }
+
+    &.mi-location_on:before { content: 'location_on'; }
+
+    &.mi-location_searching:before { content: 'location_searching'; }
+
+    &.mi-lock:before { content: 'lock'; }
+
+    &.mi-lock_open:before { content: 'lock_open'; }
+
+    &.mi-lock_outline:before { content: 'lock_outline'; }
+
+    &.mi-looks:before { content: 'looks'; }
+
+    &.mi-looks_3:before { content: 'looks_3'; }
+
+    &.mi-looks_4:before { content: 'looks_4'; }
+
+    &.mi-looks_5:before { content: 'looks_5'; }
+
+    &.mi-looks_6:before { content: 'looks_6'; }
+
+    &.mi-looks_one:before { content: 'looks_one'; }
+
+    &.mi-looks_two:before { content: 'looks_two'; }
+
+    &.mi-loop:before { content: 'loop'; }
+
+    &.mi-loupe:before { content: 'loupe'; }
+
+    &.mi-low_priority:before { content: 'low_priority'; }
+
+    &.mi-loyalty:before { content: 'loyalty'; }
+
+    &.mi-mail:before { content: 'mail'; }
+
+    &.mi-mail_outline:before { content: 'mail_outline'; }
+
+    &.mi-map:before { content: 'map'; }
+
+    &.mi-markunread:before { content: 'markunread'; }
+
+    &.mi-markunread_mailbox:before { content: 'markunread_mailbox'; }
+
+    &.mi-memory:before { content: 'memory'; }
+
+    &.mi-menu:before { content: 'menu'; }
+
+    &.mi-merge_type:before { content: 'merge_type'; }
+
+    &.mi-message:before { content: 'message'; }
+
+    &.mi-mic:before { content: 'mic'; }
+
+    &.mi-mic_none:before { content: 'mic_none'; }
+
+    &.mi-mic_off:before { content: 'mic_off'; }
+
+    &.mi-mms:before { content: 'mms'; }
+
+    &.mi-mode_comment:before { content: 'mode_comment'; }
+
+    &.mi-mode_edit:before { content: 'mode_edit'; }
+
+    &.mi-monetization_on:before { content: 'monetization_on'; }
+
+    &.mi-money_off:before { content: 'money_off'; }
+
+    &.mi-monochrome_photos:before { content: 'monochrome_photos'; }
+
+    &.mi-mood:before { content: 'mood'; }
+
+    &.mi-mood_bad:before { content: 'mood_bad'; }
+
+    &.mi-more:before { content: 'more'; }
+
+    &.mi-more_horiz:before { content: 'more_horiz'; }
+
+    &.mi-more_vert:before { content: 'more_vert'; }
+
+    &.mi-motorcycle:before { content: 'motorcycle'; }
+
+    &.mi-mouse:before { content: 'mouse'; }
+
+    &.mi-move_to_inbox:before { content: 'move_to_inbox'; }
+
+    &.mi-movie:before { content: 'movie'; }
+
+    &.mi-movie_creation:before { content: 'movie_creation'; }
+
+    &.mi-movie_filter:before { content: 'movie_filter'; }
+
+    &.mi-multiline_chart:before { content: 'multiline_chart'; }
+
+    &.mi-music_note:before { content: 'music_note'; }
+
+    &.mi-music_video:before { content: 'music_video'; }
+
+    &.mi-my_location:before { content: 'my_location'; }
+
+    &.mi-nature:before { content: 'nature'; }
+
+    &.mi-nature_people:before { content: 'nature_people'; }
+
+    &.mi-navigate_before:before { content: 'navigate_before'; }
+
+    &.mi-navigate_next:before { content: 'navigate_next'; }
+
+    &.mi-navigation:before { content: 'navigation'; }
+
+    &.mi-near_me:before { content: 'near_me'; }
+
+    &.mi-network_cell:before { content: 'network_cell'; }
+
+    &.mi-network_check:before { content: 'network_check'; }
+
+    &.mi-network_locked:before { content: 'network_locked'; }
+
+    &.mi-network_wifi:before { content: 'network_wifi'; }
+
+    &.mi-new_releases:before { content: 'new_releases'; }
+
+    &.mi-next_week:before { content: 'next_week'; }
+
+    &.mi-nfc:before { content: 'nfc'; }
+
+    &.mi-no_encryption:before { content: 'no_encryption'; }
+
+    &.mi-no_sim:before { content: 'no_sim'; }
+
+    &.mi-not_interested:before { content: 'not_interested'; }
+
+    &.mi-note:before { content: 'note'; }
+
+    &.mi-note_add:before { content: 'note_add'; }
+
+    &.mi-notifications:before { content: 'notifications'; }
+
+    &.mi-notifications_active:before { content: 'notifications_active'; }
+
+    &.mi-notifications_none:before { content: 'notifications_none'; }
+
+    &.mi-notifications_off:before { content: 'notifications_off'; }
+
+    &.mi-notifications_paused:before { content: 'notifications_paused'; }
+
+    &.mi-offline_pin:before { content: 'offline_pin'; }
+
+    &.mi-ondemand_video:before { content: 'ondemand_video'; }
+
+    &.mi-opacity:before { content: 'opacity'; }
+
+    &.mi-open_in_browser:before { content: 'open_in_browser'; }
+
+    &.mi-open_in_new:before { content: 'open_in_new'; }
+
+    &.mi-open_with:before { content: 'open_with'; }
+
+    &.mi-pages:before { content: 'pages'; }
+
+    &.mi-pageview:before { content: 'pageview'; }
+
+    &.mi-palette:before { content: 'palette'; }
+
+    &.mi-pan_tool:before { content: 'pan_tool'; }
+
+    &.mi-panorama:before { content: 'panorama'; }
+
+    &.mi-panorama_fish_eye:before { content: 'panorama_fish_eye'; }
+
+    &.mi-panorama_horizontal:before { content: 'panorama_horizontal'; }
+
+    &.mi-panorama_vertical:before { content: 'panorama_vertical'; }
+
+    &.mi-panorama_wide_angle:before { content: 'panorama_wide_angle'; }
+
+    &.mi-party_mode:before { content: 'party_mode'; }
+
+    &.mi-pause:before { content: 'pause'; }
+
+    &.mi-pause_circle_filled:before { content: 'pause_circle_filled'; }
+
+    &.mi-pause_circle_outline:before { content: 'pause_circle_outline'; }
+
+    &.mi-payment:before { content: 'payment'; }
+
+    &.mi-people:before { content: 'people'; }
+
+    &.mi-people_outline:before { content: 'people_outline'; }
+
+    &.mi-perm_camera_mic:before { content: 'perm_camera_mic'; }
+
+    &.mi-perm_contact_calendar:before { content: 'perm_contact_calendar'; }
+
+    &.mi-perm_data_setting:before { content: 'perm_data_setting'; }
+
+    &.mi-perm_device_information:before { content: 'perm_device_information'; }
+
+    &.mi-perm_identity:before { content: 'perm_identity'; }
+
+    &.mi-perm_media:before { content: 'perm_media'; }
+
+    &.mi-perm_phone_msg:before { content: 'perm_phone_msg'; }
+
+    &.mi-perm_scan_wifi:before { content: 'perm_scan_wifi'; }
+
+    &.mi-person:before { content: 'person'; }
+
+    &.mi-person_add:before { content: 'person_add'; }
+
+    &.mi-person_outline:before { content: 'person_outline'; }
+
+    &.mi-person_pin:before { content: 'person_pin'; }
+
+    &.mi-person_pin_circle:before { content: 'person_pin_circle'; }
+
+    &.mi-personal_video:before { content: 'personal_video'; }
+
+    &.mi-pets:before { content: 'pets'; }
+
+    &.mi-phone:before { content: 'phone'; }
+
+    &.mi-phone_android:before { content: 'phone_android'; }
+
+    &.mi-phone_bluetooth_speaker:before { content: 'phone_bluetooth_speaker'; }
+
+    &.mi-phone_forwarded:before { content: 'phone_forwarded'; }
+
+    &.mi-phone_in_talk:before { content: 'phone_in_talk'; }
+
+    &.mi-phone_iphone:before { content: 'phone_iphone'; }
+
+    &.mi-phone_locked:before { content: 'phone_locked'; }
+
+    &.mi-phone_missed:before { content: 'phone_missed'; }
+
+    &.mi-phone_paused:before { content: 'phone_paused'; }
+
+    &.mi-phonelink:before { content: 'phonelink'; }
+
+    &.mi-phonelink_erase:before { content: 'phonelink_erase'; }
+
+    &.mi-phonelink_lock:before { content: 'phonelink_lock'; }
+
+    &.mi-phonelink_off:before { content: 'phonelink_off'; }
+
+    &.mi-phonelink_ring:before { content: 'phonelink_ring'; }
+
+    &.mi-phonelink_setup:before { content: 'phonelink_setup'; }
+
+    &.mi-photo:before { content: 'photo'; }
+
+    &.mi-photo_album:before { content: 'photo_album'; }
+
+    &.mi-photo_camera:before { content: 'photo_camera'; }
+
+    &.mi-photo_filter:before { content: 'photo_filter'; }
+
+    &.mi-photo_library:before { content: 'photo_library'; }
+
+    &.mi-photo_size_select_actual:before { content: 'photo_size_select_actual'; }
+
+    &.mi-photo_size_select_large:before { content: 'photo_size_select_large'; }
+
+    &.mi-photo_size_select_small:before { content: 'photo_size_select_small'; }
+
+    &.mi-picture_as_pdf:before { content: 'picture_as_pdf'; }
+
+    &.mi-picture_in_picture:before { content: 'picture_in_picture'; }
+
+    &.mi-picture_in_picture_alt:before { content: 'picture_in_picture_alt'; }
+
+    &.mi-pie_chart:before { content: 'pie_chart'; }
+
+    &.mi-pie_chart_outlined:before { content: 'pie_chart_outlined'; }
+
+    &.mi-pin_drop:before { content: 'pin_drop'; }
+
+    &.mi-place:before { content: 'place'; }
+
+    &.mi-play_arrow:before { content: 'play_arrow'; }
+
+    &.mi-play_circle_filled:before { content: 'play_circle_filled'; }
+
+    &.mi-play_circle_outline:before { content: 'play_circle_outline'; }
+
+    &.mi-play_for_work:before { content: 'play_for_work'; }
+
+    &.mi-playlist_add:before { content: 'playlist_add'; }
+
+    &.mi-playlist_add_check:before { content: 'playlist_add_check'; }
+
+    &.mi-playlist_play:before { content: 'playlist_play'; }
+
+    &.mi-plus_one:before { content: 'plus_one'; }
+
+    &.mi-poll:before { content: 'poll'; }
+
+    &.mi-polymer:before { content: 'polymer'; }
+
+    &.mi-pool:before { content: 'pool'; }
+
+    &.mi-portable_wifi_off:before { content: 'portable_wifi_off'; }
+
+    &.mi-portrait:before { content: 'portrait'; }
+
+    &.mi-power:before { content: 'power'; }
+
+    &.mi-power_input:before { content: 'power_input'; }
+
+    &.mi-power_settings_new:before { content: 'power_settings_new'; }
+
+    &.mi-pregnant_woman:before { content: 'pregnant_woman'; }
+
+    &.mi-present_to_all:before { content: 'present_to_all'; }
+
+    &.mi-print:before { content: 'print'; }
+
+    &.mi-priority_high:before { content: 'priority_high'; }
+
+    &.mi-public:before { content: 'public'; }
+
+    &.mi-publish:before { content: 'publish'; }
+
+    &.mi-query_builder:before { content: 'query_builder'; }
+
+    &.mi-question_answer:before { content: 'question_answer'; }
+
+    &.mi-queue:before { content: 'queue'; }
+
+    &.mi-queue_music:before { content: 'queue_music'; }
+
+    &.mi-queue_play_next:before { content: 'queue_play_next'; }
+
+    &.mi-radio:before { content: 'radio'; }
+
+    &.mi-radio_button_checked:before { content: 'radio_button_checked'; }
+
+    &.mi-radio_button_unchecked:before { content: 'radio_button_unchecked'; }
+
+    &.mi-rate_review:before { content: 'rate_review'; }
+
+    &.mi-receipt:before { content: 'receipt'; }
+
+    &.mi-recent_actors:before { content: 'recent_actors'; }
+
+    &.mi-record_voice_over:before { content: 'record_voice_over'; }
+
+    &.mi-redeem:before { content: 'redeem'; }
+
+    &.mi-redo:before { content: 'redo'; }
+
+    &.mi-refresh:before { content: 'refresh'; }
+
+    &.mi-remove:before { content: 'remove'; }
+
+    &.mi-remove_circle:before { content: 'remove_circle'; }
+
+    &.mi-remove_circle_outline:before { content: 'remove_circle_outline'; }
+
+    &.mi-remove_from_queue:before { content: 'remove_from_queue'; }
+
+    &.mi-remove_red_eye:before { content: 'remove_red_eye'; }
+
+    &.mi-remove_shopping_cart:before { content: 'remove_shopping_cart'; }
+
+    &.mi-reorder:before { content: 'reorder'; }
+
+    &.mi-repeat:before { content: 'repeat'; }
+
+    &.mi-repeat_one:before { content: 'repeat_one'; }
+
+    &.mi-replay:before { content: 'replay'; }
+
+    &.mi-replay_5:before { content: 'replay_5'; }
+
+    &.mi-replay_10:before { content: 'replay_10'; }
+
+    &.mi-replay_30:before { content: 'replay_30'; }
+
+    &.mi-reply:before { content: 'reply'; }
+
+    &.mi-reply_all:before { content: 'reply_all'; }
+
+    &.mi-report:before { content: 'report'; }
+
+    &.mi-report_problem:before { content: 'report_problem'; }
+
+    &.mi-restaurant:before { content: 'restaurant'; }
+
+    &.mi-restaurant_menu:before { content: 'restaurant_menu'; }
+
+    &.mi-restore:before { content: 'restore'; }
+
+    &.mi-restore_page:before { content: 'restore_page'; }
+
+    &.mi-ring_volume:before { content: 'ring_volume'; }
+
+    &.mi-room:before { content: 'room'; }
+
+    &.mi-room_service:before { content: 'room_service'; }
+
+    &.mi-rotate_90_degrees_ccw:before { content: 'rotate_90_degrees_ccw'; }
+
+    &.mi-rotate_left:before { content: 'rotate_left'; }
+
+    &.mi-rotate_right:before { content: 'rotate_right'; }
+
+    &.mi-rounded_corner:before { content: 'rounded_corner'; }
+
+    &.mi-router:before { content: 'router'; }
+
+    &.mi-rowing:before { content: 'rowing'; }
+
+    &.mi-rss_feed:before { content: 'rss_feed'; }
+
+    &.mi-rv_hookup:before { content: 'rv_hookup'; }
+
+    &.mi-satellite:before { content: 'satellite'; }
+
+    &.mi-save:before { content: 'save'; }
+
+    &.mi-scanner:before { content: 'scanner'; }
+
+    &.mi-schedule:before { content: 'schedule'; }
+
+    &.mi-school:before { content: 'school'; }
+
+    &.mi-screen_lock_landscape:before { content: 'screen_lock_landscape'; }
+
+    &.mi-screen_lock_portrait:before { content: 'screen_lock_portrait'; }
+
+    &.mi-screen_lock_rotation:before { content: 'screen_lock_rotation'; }
+
+    &.mi-screen_rotation:before { content: 'screen_rotation'; }
+
+    &.mi-screen_share:before { content: 'screen_share'; }
+
+    &.mi-sd_card:before { content: 'sd_card'; }
+
+    &.mi-sd_storage:before { content: 'sd_storage'; }
+
+    &.mi-search:before { content: 'search'; }
+
+    &.mi-security:before { content: 'security'; }
+
+    &.mi-select_all:before { content: 'select_all'; }
+
+    &.mi-send:before { content: 'send'; }
+
+    &.mi-sentiment_dissatisfied:before { content: 'sentiment_dissatisfied'; }
+
+    &.mi-sentiment_neutral:before { content: 'sentiment_neutral'; }
+
+    &.mi-sentiment_satisfied:before { content: 'sentiment_satisfied'; }
+
+    &.mi-sentiment_very_dissatisfied:before { content: 'sentiment_very_dissatisfied'; }
+
+    &.mi-sentiment_very_satisfied:before { content: 'sentiment_very_satisfied'; }
+
+    &.mi-settings:before { content: 'settings'; }
+
+    &.mi-settings_applications:before { content: 'settings_applications'; }
+
+    &.mi-settings_backup_restore:before { content: 'settings_backup_restore'; }
+
+    &.mi-settings_bluetooth:before { content: 'settings_bluetooth'; }
+
+    &.mi-settings_brightness:before { content: 'settings_brightness'; }
+
+    &.mi-settings_cell:before { content: 'settings_cell'; }
+
+    &.mi-settings_ethernet:before { content: 'settings_ethernet'; }
+
+    &.mi-settings_input_antenna:before { content: 'settings_input_antenna'; }
+
+    &.mi-settings_input_component:before { content: 'settings_input_component'; }
+
+    &.mi-settings_input_composite:before { content: 'settings_input_composite'; }
+
+    &.mi-settings_input_hdmi:before { content: 'settings_input_hdmi'; }
+
+    &.mi-settings_input_svideo:before { content: 'settings_input_svideo'; }
+
+    &.mi-settings_overscan:before { content: 'settings_overscan'; }
+
+    &.mi-settings_phone:before { content: 'settings_phone'; }
+
+    &.mi-settings_power:before { content: 'settings_power'; }
+
+    &.mi-settings_remote:before { content: 'settings_remote'; }
+
+    &.mi-settings_system_daydream:before { content: 'settings_system_daydream'; }
+
+    &.mi-settings_voice:before { content: 'settings_voice'; }
+
+    &.mi-share:before { content: 'share'; }
+
+    &.mi-shop:before { content: 'shop'; }
+
+    &.mi-shop_two:before { content: 'shop_two'; }
+
+    &.mi-shopping_basket:before { content: 'shopping_basket'; }
+
+    &.mi-shopping_cart:before { content: 'shopping_cart'; }
+
+    &.mi-short_text:before { content: 'short_text'; }
+
+    &.mi-show_chart:before { content: 'show_chart'; }
+
+    &.mi-shuffle:before { content: 'shuffle'; }
+
+    &.mi-signal_cellular_4_bar:before { content: 'signal_cellular_4_bar'; }
+
+    &.mi-signal_cellular_connected_no_internet_4_bar:before { content: 'signal_cellular_connected_no_internet_4_bar'; }
+
+    &.mi-signal_cellular_no_sim:before { content: 'signal_cellular_no_sim'; }
+
+    &.mi-signal_cellular_null:before { content: 'signal_cellular_null'; }
+
+    &.mi-signal_cellular_off:before { content: 'signal_cellular_off'; }
+
+    &.mi-signal_wifi_4_bar:before { content: 'signal_wifi_4_bar'; }
+
+    &.mi-signal_wifi_4_bar_lock:before { content: 'signal_wifi_4_bar_lock'; }
+
+    &.mi-signal_wifi_off:before { content: 'signal_wifi_off'; }
+
+    &.mi-sim_card:before { content: 'sim_card'; }
+
+    &.mi-sim_card_alert:before { content: 'sim_card_alert'; }
+
+    &.mi-skip_next:before { content: 'skip_next'; }
+
+    &.mi-skip_previous:before { content: 'skip_previous'; }
+
+    &.mi-slideshow:before { content: 'slideshow'; }
+
+    &.mi-slow_motion_video:before { content: 'slow_motion_video'; }
+
+    &.mi-smartphone:before { content: 'smartphone'; }
+
+    &.mi-smoke_free:before { content: 'smoke_free'; }
+
+    &.mi-smoking_rooms:before { content: 'smoking_rooms'; }
+
+    &.mi-sms:before { content: 'sms'; }
+
+    &.mi-sms_failed:before { content: 'sms_failed'; }
+
+    &.mi-snooze:before { content: 'snooze'; }
+
+    &.mi-sort:before { content: 'sort'; }
+
+    &.mi-sort_by_alpha:before { content: 'sort_by_alpha'; }
+
+    &.mi-spa:before { content: 'spa'; }
+
+    &.mi-space_bar:before { content: 'space_bar'; }
+
+    &.mi-speaker:before { content: 'speaker'; }
+
+    &.mi-speaker_group:before { content: 'speaker_group'; }
+
+    &.mi-speaker_notes:before { content: 'speaker_notes'; }
+
+    &.mi-speaker_notes_off:before { content: 'speaker_notes_off'; }
+
+    &.mi-speaker_phone:before { content: 'speaker_phone'; }
+
+    &.mi-spellcheck:before { content: 'spellcheck'; }
+
+    &.mi-star:before { content: 'star'; }
+
+    &.mi-star_border:before { content: 'star_border'; }
+
+    &.mi-star_half:before { content: 'star_half'; }
+
+    &.mi-stars:before { content: 'stars'; }
+
+    &.mi-stay_current_landscape:before { content: 'stay_current_landscape'; }
+
+    &.mi-stay_current_portrait:before { content: 'stay_current_portrait'; }
+
+    &.mi-stay_primary_landscape:before { content: 'stay_primary_landscape'; }
+
+    &.mi-stay_primary_portrait:before { content: 'stay_primary_portrait'; }
+
+    &.mi-stop:before { content: 'stop'; }
+
+    &.mi-stop_screen_share:before { content: 'stop_screen_share'; }
+
+    &.mi-storage:before { content: 'storage'; }
+
+    &.mi-store:before { content: 'store'; }
+
+    &.mi-store_mall_directory:before { content: 'store_mall_directory'; }
+
+    &.mi-straighten:before { content: 'straighten'; }
+
+    &.mi-streetview:before { content: 'streetview'; }
+
+    &.mi-strikethrough_s:before { content: 'strikethrough_s'; }
+
+    &.mi-style:before { content: 'style'; }
+
+    &.mi-subdirectory_arrow_left:before { content: 'subdirectory_arrow_left'; }
+
+    &.mi-subdirectory_arrow_right:before { content: 'subdirectory_arrow_right'; }
+
+    &.mi-subject:before { content: 'subject'; }
+
+    &.mi-subscriptions:before { content: 'subscriptions'; }
+
+    &.mi-subtitles:before { content: 'subtitles'; }
+
+    &.mi-subway:before { content: 'subway'; }
+
+    &.mi-supervisor_account:before { content: 'supervisor_account'; }
+
+    &.mi-surround_sound:before { content: 'surround_sound'; }
+
+    &.mi-swap_calls:before { content: 'swap_calls'; }
+
+    &.mi-swap_horiz:before { content: 'swap_horiz'; }
+
+    &.mi-swap_vert:before { content: 'swap_vert'; }
+
+    &.mi-swap_vertical_circle:before { content: 'swap_vertical_circle'; }
+
+    &.mi-switch_camera:before { content: 'switch_camera'; }
+
+    &.mi-switch_video:before { content: 'switch_video'; }
+
+    &.mi-sync:before { content: 'sync'; }
+
+    &.mi-sync_disabled:before { content: 'sync_disabled'; }
+
+    &.mi-sync_problem:before { content: 'sync_problem'; }
+
+    &.mi-system_update:before { content: 'system_update'; }
+
+    &.mi-system_update_alt:before { content: 'system_update_alt'; }
+
+    &.mi-tab:before { content: 'tab'; }
+
+    &.mi-tab_unselected:before { content: 'tab_unselected'; }
+
+    &.mi-tablet:before { content: 'tablet'; }
+
+    &.mi-tablet_android:before { content: 'tablet_android'; }
+
+    &.mi-tablet_mac:before { content: 'tablet_mac'; }
+
+    &.mi-tag_faces:before { content: 'tag_faces'; }
+
+    &.mi-tap_and_play:before { content: 'tap_and_play'; }
+
+    &.mi-terrain:before { content: 'terrain'; }
+
+    &.mi-text_fields:before { content: 'text_fields'; }
+
+    &.mi-text_format:before { content: 'text_format'; }
+
+    &.mi-textsms:before { content: 'textsms'; }
+
+    &.mi-texture:before { content: 'texture'; }
+
+    &.mi-theaters:before { content: 'theaters'; }
+
+    &.mi-thumb_down:before { content: 'thumb_down'; }
+
+    &.mi-thumb_up:before { content: 'thumb_up'; }
+
+    &.mi-thumbs_up_down:before { content: 'thumbs_up_down'; }
+
+    &.mi-time_to_leave:before { content: 'time_to_leave'; }
+
+    &.mi-timelapse:before { content: 'timelapse'; }
+
+    &.mi-timeline:before { content: 'timeline'; }
+
+    &.mi-timer:before { content: 'timer'; }
+
+    &.mi-timer_3:before { content: 'timer_3'; }
+
+    &.mi-timer_10:before { content: 'timer_10'; }
+
+    &.mi-timer_off:before { content: 'timer_off'; }
+
+    &.mi-title:before { content: 'title'; }
+
+    &.mi-toc:before { content: 'toc'; }
+
+    &.mi-today:before { content: 'today'; }
+
+    &.mi-toll:before { content: 'toll'; }
+
+    &.mi-tonality:before { content: 'tonality'; }
+
+    &.mi-touch_app:before { content: 'touch_app'; }
+
+    &.mi-toys:before { content: 'toys'; }
+
+    &.mi-track_changes:before { content: 'track_changes'; }
+
+    &.mi-traffic:before { content: 'traffic'; }
+
+    &.mi-train:before { content: 'train'; }
+
+    &.mi-tram:before { content: 'tram'; }
+
+    &.mi-transfer_within_a_station:before { content: 'transfer_within_a_station'; }
+
+    &.mi-transform:before { content: 'transform'; }
+
+    &.mi-translate:before { content: 'translate'; }
+
+    &.mi-trending_down:before { content: 'trending_down'; }
+
+    &.mi-trending_flat:before { content: 'trending_flat'; }
+
+    &.mi-trending_up:before { content: 'trending_up'; }
+
+    &.mi-tune:before { content: 'tune'; }
+
+    &.mi-turned_in:before { content: 'turned_in'; }
+
+    &.mi-turned_in_not:before { content: 'turned_in_not'; }
+
+    &.mi-tv:before { content: 'tv'; }
+
+    &.mi-unarchive:before { content: 'unarchive'; }
+
+    &.mi-undo:before { content: 'undo'; }
+
+    &.mi-unfold_less:before { content: 'unfold_less'; }
+
+    &.mi-unfold_more:before { content: 'unfold_more'; }
+
+    &.mi-update:before { content: 'update'; }
+
+    &.mi-usb:before { content: 'usb'; }
+
+    &.mi-verified_user:before { content: 'verified_user'; }
+
+    &.mi-vertical_align_bottom:before { content: 'vertical_align_bottom'; }
+
+    &.mi-vertical_align_center:before { content: 'vertical_align_center'; }
+
+    &.mi-vertical_align_top:before { content: 'vertical_align_top'; }
+
+    &.mi-vibration:before { content: 'vibration'; }
+
+    &.mi-video_call:before { content: 'video_call'; }
+
+    &.mi-video_label:before { content: 'video_label'; }
+
+    &.mi-video_library:before { content: 'video_library'; }
+
+    &.mi-videocam:before { content: 'videocam'; }
+
+    &.mi-videocam_off:before { content: 'videocam_off'; }
+
+    &.mi-videogame_asset:before { content: 'videogame_asset'; }
+
+    &.mi-view_agenda:before { content: 'view_agenda'; }
+
+    &.mi-view_array:before { content: 'view_array'; }
+
+    &.mi-view_carousel:before { content: 'view_carousel'; }
+
+    &.mi-view_column:before { content: 'view_column'; }
+
+    &.mi-view_comfy:before { content: 'view_comfy'; }
+
+    &.mi-view_compact:before { content: 'view_compact'; }
+
+    &.mi-view_day:before { content: 'view_day'; }
+
+    &.mi-view_headline:before { content: 'view_headline'; }
+
+    &.mi-view_list:before { content: 'view_list'; }
+
+    &.mi-view_module:before { content: 'view_module'; }
+
+    &.mi-view_quilt:before { content: 'view_quilt'; }
+
+    &.mi-view_stream:before { content: 'view_stream'; }
+
+    &.mi-view_week:before { content: 'view_week'; }
+
+    &.mi-vignette:before { content: 'vignette'; }
+
+    &.mi-visibility:before { content: 'visibility'; }
+
+    &.mi-visibility_off:before { content: 'visibility_off'; }
+
+    &.mi-voice_chat:before { content: 'voice_chat'; }
+
+    &.mi-voicemail:before { content: 'voicemail'; }
+
+    &.mi-volume_down:before { content: 'volume_down'; }
+
+    &.mi-volume_mute:before { content: 'volume_mute'; }
+
+    &.mi-volume_off:before { content: 'volume_off'; }
+
+    &.mi-volume_up:before { content: 'volume_up'; }
+
+    &.mi-vpn_key:before { content: 'vpn_key'; }
+
+    &.mi-vpn_lock:before { content: 'vpn_lock'; }
+
+    &.mi-wallpaper:before { content: 'wallpaper'; }
+
+    &.mi-warning:before { content: 'warning'; }
+
+    &.mi-watch:before { content: 'watch'; }
+
+    &.mi-watch_later:before { content: 'watch_later'; }
+
+    &.mi-wb_auto:before { content: 'wb_auto'; }
+
+    &.mi-wb_cloudy:before { content: 'wb_cloudy'; }
+
+    &.mi-wb_incandescent:before { content: 'wb_incandescent'; }
+
+    &.mi-wb_iridescent:before { content: 'wb_iridescent'; }
+
+    &.mi-wb_sunny:before { content: 'wb_sunny'; }
+
+    &.mi-wc:before { content: 'wc'; }
+
+    &.mi-web:before { content: 'web'; }
+
+    &.mi-web_asset:before { content: 'web_asset'; }
+
+    &.mi-weekend:before { content: 'weekend'; }
+
+    &.mi-whatshot:before { content: 'whatshot'; }
+
+    &.mi-widgets:before { content: 'widgets'; }
+
+    &.mi-wifi:before { content: 'wifi'; }
+
+    &.mi-wifi_lock:before { content: 'wifi_lock'; }
+
+    &.mi-wifi_tethering:before { content: 'wifi_tethering'; }
+
+    &.mi-work:before { content: 'work'; }
+
+    &.mi-wrap_text:before { content: 'wrap_text'; }
+
+    &.mi-youtube_searched_for:before { content: 'youtube_searched_for'; }
+
+    &.mi-zoom_in:before { content: 'zoom_in'; }
+
+    &.mi-zoom_out:before { content: 'zoom_out'; }
+
+    &.mi-zoom_out_map:before { content: 'zoom_out_map'; }
+}
