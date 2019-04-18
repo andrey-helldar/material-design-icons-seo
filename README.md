@@ -11,6 +11,11 @@ SEO Plugin for [Material Design icons](https://www.npmjs.com/package/material-de
     <a href="LICENSE"><img src="https://img.shields.io/npm/l/material-design-icons-seo.svg?style=flat-square" alt="License" /></a>
 </p>
 
+## Attention
+
+Use [iconify-design/iconify](https://github.com/iconify-design/iconify) instead.
+
+
 ## Installation
 
 **NPM**
